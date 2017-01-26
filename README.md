@@ -2,6 +2,15 @@
 
 > A Vue.js project
 
+## Using Vuejs template for webpack
+
+```bash
+$ npm install -g vue-cli
+$ vue init webpack my-project
+$ cd my-project
+$ npm install
+$ npm run dev
+```
 ## Build Setup
 
 ``` bash
