@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-[Demo](./images/demo.png)
+![Demo](./images/demo.png)
 
 ## Using Vuejs template for webpack
 
